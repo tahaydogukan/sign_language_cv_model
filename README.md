@@ -2,6 +2,8 @@
 
 This project is a **real-time sign language recognition system** that detects hand and body movements from a camera, classifies them using a deep learning model.
 
+https://github.com/user-attachments/assets/793e85af-dbbd-4590-b02a-3ac968036f37
+
 ## 🚀 Project Overview
 
 The system works in real time and follows this pipeline:
@@ -119,3 +121,7 @@ python realtime_inference.py
 
 This project is for **educational and experimental purposes**.
 It is not intended to replace professional sign language interpreters.
+
+
+
+
